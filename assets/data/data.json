@@ -1,0 +1,16 @@
+{
+  "data": {
+    "clientName": "",
+    "invoiceAddress": [{
+      "customerNo": "",
+      "companyName": "",
+      "postalAddress": ""
+    }],
+    "profile": {
+      "name": "",
+      "companyName": "",
+      "phoneNumber": "",
+      "costCentre": ""
+    }
+  }
+}
